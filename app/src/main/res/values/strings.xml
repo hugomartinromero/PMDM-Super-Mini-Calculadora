@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="numero_uno">Número 1:</string>
+    <string name="numero_dos">Número 2:</string>
+    <string name="number_hint">Introduzca un número entero</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multiplicacion">x</string>
+    <string name="division">/</string>
+    <string name="borrar">BORRAR</string>
+</resources>
